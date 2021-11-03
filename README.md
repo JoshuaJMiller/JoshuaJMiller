@@ -1,4 +1,5 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=gray&right_color=black)
 
 [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaJMiller&theme=gotham&hide=prs,contribs&show_icons-true)](https://github.com/anuraghazra/github-readme-stats)
 
